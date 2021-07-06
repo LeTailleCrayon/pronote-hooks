@@ -1,3 +1,5 @@
+# coding=utf-8
+
 print("Bienvenue sur PronoteTools ! Version 1.0.0.0")
 print("--------------------------------------------")
 print("1. Calculer ta moyenne")
